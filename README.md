@@ -4,6 +4,11 @@ Project was hosted on my homelab where I execute a variety of Canary Red Tests, 
 ## Objective
 
 ## Setup
+Edgerouter-x-sfp
+Cisco Catalyst 2960-C
+Proxmox Server (PC)
+Wazuh Virtual Machine
+Windows 11 Virtual Machine
 
 ### Network
 Link to network diagram
@@ -11,9 +16,10 @@ Hyperlink to network section
 Small summary entire network stack
 
 ### Wazuh
-Small summary of wazuh
+Small summary of wazuh and what I used it for/what I did with Wazuh
 
 ### Atomic Host
-Small summary of the vm used to run atomic tests
+Small summary of the vm used to run atomic tests and which tests I ran
 
 ### Learning Lessons
+Errors that occured and what I learned
