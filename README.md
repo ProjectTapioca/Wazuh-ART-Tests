@@ -1,9 +1,11 @@
 # Atomic-Red-Team-Tests (Summary)
-Project was hosted on my homelab where I execute a variety of Canary Red Tests, review the logs, modify the SIEM rules, and map the attacks to the MITRE Framework.
+This project is based on [Wazuh: Emulation of ATT&CK Techniques](https://wazuh.com/blog/emulation-of-attck-techniques-and-detection-with-wazuh/).
+I demonstrate the components of basic network configuration and using Wazuh to ingest logs generated from Atomic Red Team Tests. Everything performed was completed on my homelab stack.
 
 ## Objective
+The main objective is to create custom rules that would detect and log attack vectors generated from the Atomic Tests. Other objectives involved understanding sysmon, xml configuration files, and fixing errors or using workarounds when encountering errors.
 
-## Setup
+## Equipment
 Edgerouter-x-sfp
 Cisco Catalyst 2960-C
 Proxmox Server (PC)
@@ -11,7 +13,7 @@ Wazuh Virtual Machine
 Windows 11 Virtual Machine
 
 ### Network
-Link to network diagram
+[Network Diagram](Network Diagram.png)
 Hyperlink to network section
 Small summary entire network stack
 
