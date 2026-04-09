@@ -13,7 +13,7 @@ Wazuh Virtual Machine
 Windows 11 Virtual Machine
 
 ### Network
-[Network Diagram](Network Diagram.png)
+[Network Diagram](Wazuh-ART-Tests/Network Diagram.png)
 Hyperlink to network section
 Small summary entire network stack
 
