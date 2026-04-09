@@ -14,12 +14,13 @@ Windows 11 Virtual Machine
 
 ### Network
 [Network Diagram](https://github.com/ProjectTapioca/Wazuh-ART-Tests/blob/main/Network%20Diagram.png)
+A basic firewall configuration was setup in the router, along with two subnets for the two VLANs used.
 
 ### Wazuh
-Small summary of wazuh and what I used it for/what I did with Wazuh
+Installed on a virtual machine running Ubuntu 22.04
 
 ### Atomic Host
-Small summary of the vm used to run atomic tests and which tests I ran
+Installed on a Windows 11 virtual machine
 
 ### Learning Lessons
 Errors that occured and what I learned
