@@ -13,11 +13,12 @@ Edgerouter-x-sfp<br>Cisco Catalyst 2960-C<br>Proxmox Server (PC)<br>Management P
 A basic firewall configuration was setup in the router, along with two subnets for the two VLANs used.
 
 ### Installation
-Wazuh
-Atomic Host
+Wazuh<br>
+Atomic Host<br>
 Firewall Configurations
 
 ### Tests & Rules
+List of Tests<br>Inside the folders will contain screenshots of eventviewer, raw log in Wazuh, custom rule created, dashboard of the log after rule created
 
 ### Learning Lessons
 Errors that occured and what I learned
