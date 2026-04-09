@@ -8,7 +8,7 @@ The main objective is to create custom rules that detect and log attack vectors 
 ## Equipment
 Edgerouter-x-sfp<br>Cisco Catalyst 2960-C<br>Proxmox Server (PC)<br>Management PC<br>Wazuh Virtual Machine<br>Windows 11 Virtual Machine
 
-### Network
+### [Network](https://github.com/ProjectTapioca/Wazuh-ART-Tests/tree/main/Network)
 [Basic Network Diagram](https://github.com/ProjectTapioca/Wazuh-ART-Tests/blob/main/Network/Network%20Diagram.png)
 of the infrastructure utilized.
 
