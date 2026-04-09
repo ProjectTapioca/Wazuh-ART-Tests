@@ -6,7 +6,7 @@ I demonstrate the components of basic network configuration and using Wazuh to i
 The main objective is to create custom rules that would detect and log attack vectors generated from the Atomic Tests. Other objectives involved understanding sysmon, xml configuration files, and fixing errors or using workarounds when encountering errors.
 
 ## Equipment
-/nEdgerouter-x-sfp
+Edgerouter-x-sfp
 Cisco Catalyst 2960-C
 Proxmox Server (PC)
 Wazuh Virtual Machine
