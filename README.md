@@ -9,7 +9,7 @@ The main objective is to create custom rules that detect and log attack vectors 
 Edgerouter-x-sfp<br>Cisco Catalyst 2960-C<br>Proxmox Server (PC)<br>Management PC<br>Wazuh Virtual Machine<br>Windows 11 Virtual Machine
 
 ### Network
-[Basic Network Diagram](Network/Network Diagram.png)
+[Basic Network Diagram](https://github.com/ProjectTapioca/Wazuh-ART-Tests/blob/main/Network/Network%20Diagram.png)
 A basic firewall configuration was setup in the router, along with two subnets for the two VLANs used.
 
 ### Installation
