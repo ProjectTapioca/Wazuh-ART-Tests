@@ -12,11 +12,12 @@ Edgerouter-x-sfp<br>Cisco Catalyst 2960-C<br>Proxmox Server (PC)<br>Management P
 [Network Diagram](https://github.com/ProjectTapioca/Wazuh-ART-Tests/blob/main/Network%20Diagram.png)
 A basic firewall configuration was setup in the router, along with two subnets for the two VLANs used.
 
-### Wazuh
-Installed on a virtual machine running Ubuntu 22.04
+### Installation
+Wazuh
+Atomic Host
+Firewall Configurations
 
-### Atomic Host
-Installed on a Windows 11 virtual machine
+### Tests & Rules
 
 ### Learning Lessons
 Errors that occured and what I learned
