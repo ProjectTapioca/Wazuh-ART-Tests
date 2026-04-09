@@ -1,4 +1,4 @@
-# SOC Analyst Portfolio
+# Wazuh + ART Testing
 This project is based on [Wazuh: Emulation of ATT&CK Techniques](https://wazuh.com/blog/emulation-of-attck-techniques-and-detection-with-wazuh/).
 I demonstrate the components of basic network configuration and using Wazuh to ingest logs generated from Atomic Red Team Tests. Everything performed was completed on my homelab stack.
 
@@ -6,11 +6,7 @@ I demonstrate the components of basic network configuration and using Wazuh to i
 The main objective is to create custom rules that detect and log attack vectors generated from the Atomic Tests. Other objectives involved understanding sysmon, event viewer, xml configuration files, creating custom rules, and fixing errors or using workarounds when encountering errors.
 
 ## Equipment
-Edgerouter-x-sfp
-Cisco Catalyst 2960-C
-Proxmox Server (PC)
-Wazuh Virtual Machine
-Windows 11 Virtual Machine
+Edgerouter-x-sfp  Cisco Catalyst 2960-C  Proxmox Server (PC)  Wazuh Virtual Machine  Windows 11 Virtual Machine
 
 ### Network
 [Network Diagram](https://github.com/ProjectTapioca/Wazuh-ART-Tests/blob/main/Network%20Diagram.png)
